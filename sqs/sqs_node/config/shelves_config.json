@@ -1,0 +1,27 @@
+{
+	"RPI_1": {
+		"lockers": [
+			"A1",
+			"A2",
+			"A3",
+			"A4",
+			"A5",
+			"B1",
+			"B2",
+			"B3",
+			"B4",
+			"B5",
+			"C1",
+			"C2",
+			"C3",
+			"C4",
+			"C5"
+		],
+		"hostname": "52.210.162.47",
+		"port": 5301,
+		"paths": {
+			"unlock_locker": "/api/lockers/"
+		},
+		"queue_url": "hHERE"
+	}
+}

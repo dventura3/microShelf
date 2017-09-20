@@ -1,0 +1,33 @@
+{
+    "msg": {
+        "ResponseMetadata": {
+            "RequestId": "af745988-7f97-527f-b428-0bbdca6eea0d"
+        },
+        "MD5OfMessageBody": "46b9be68b09afc2b41a3ff838453f378",
+        "MessageId": "eb814562-f482-43c9-8cfe-6fe519d2c1be"
+    }
+}
+
+
+
+
+
+-----
+
+
+
+{
+    "msg": {
+        "ResponseMetadata": {
+            "RequestId": "9e4c3ae3-b3cd-52f7-b2ed-68d605e9ddc7"
+        },
+        "Messages": [
+            {
+                "MessageId": "eb814562-f482-43c9-8cfe-6fe519d2c1be",
+                "ReceiptHandle": "AQEB88lx3ldeVhhofBvW4kXpJzHSaWDc+PHoJ1L65wWxNnLgBDcKjOzA8+fpZ/M/mVE71wETpDs80p2n7Selq2YAFtWgqMwHrC9gXGtKeEDhWCZmr2WxlhzGLNPvi/lhrQrO2269rRbKylWG5QThdQg277gXpQVHcPd8xNPRKKRTtPqPShJdVUPzfkISrKXZe/Geq8IfEOHh6n2isqluOlaRV3Dik/HfC7CbtEYxBZ67s1cfOLSCZVXbekHy8Ucr5LID9S4WgkWYaUhNV42PJRAzPP00IeUVyWn1Hy8tllfFcNR4byo8QWcdMhJnFciWxs5qqsQl6ygm+d8NskWck45X6aXeRXO1Jdsi2OOlzCA4/qY67EVyks4P7F2VFZS3nV/j",
+                "MD5OfBody": "46b9be68b09afc2b41a3ff838453f378",
+                "Body": "Test MessageBody"
+            }
+        ]
+    }
+}
